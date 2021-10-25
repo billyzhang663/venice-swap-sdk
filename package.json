@@ -1,16 +1,16 @@
 {
-  "name": "@pancakeswap/sdk",
+  "name": "@veniceswap/sdk",
   "license": "MIT",
   "version": "2.4.0",
-  "description": "🛠 An SDK for building applications on top of Pancakeswap.",
+  "description": "🛠 An SDK for building applications on top of Veniceswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancake-swap-sdk.git",
+  "repository": "https://github.com/billyzhang663/venice-swap-sdk.git",
   "keywords": [
-    "pancakeswap",
+    "veniceswap",
     "bsc"
   ],
   "module": "dist/sdk.esm.js",
